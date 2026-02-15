@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/MayankShah123/Leetcode/tree/master/0006-zigzag-conversion) |
+| [0067-add-binary](https://github.com/MayankShah123/Leetcode/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/MayankShah123/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 ## Array
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/MayankShah123/Leetcode/tree/master/0048-rotate-image) |
+| [0067-add-binary](https://github.com/MayankShah123/Leetcode/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/MayankShah123/Leetcode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/MayankShah123/Leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/MayankShah123/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/MayankShah123/Leetcode/tree/master/0268-missing-number) |
 ## Sorting
@@ -94,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/MayankShah123/Leetcode/tree/master/0067-add-binary) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/MayankShah123/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Union-Find
 |  |
